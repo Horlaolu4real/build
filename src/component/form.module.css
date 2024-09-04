@@ -1,0 +1,37 @@
+.todoform {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 0px 4px 6px rgb(0, 0, 0, 0.2);
+  width: 500px;
+}
+
+.modern {
+  width: 100%;
+  border: none;
+  color: black;
+  display: block;
+  font-size: 16px;
+}
+
+.modern:focus {
+  outline: none;
+}
+.btn {
+    color: #fff;
+    background-color: yellow;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    padding: 12px 20px;
+}
+.btn:hover {
+    background-color: aqua;
+}
+
+.container {
+    display: flex;
+}
